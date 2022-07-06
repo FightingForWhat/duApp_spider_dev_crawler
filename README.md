@@ -7,6 +7,6 @@
 
 目前取数据已经没有问题，接下来就是自动化构建和程序优化了。
 
-![](demo/demo01.png)
+![](demo/demo01.jpg)
 
-![](demo/demo01.png)
+![](demo/demo02.png)
